@@ -1,0 +1,17 @@
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolBLL.dll
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolBLL.pdb
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolDAL.dll
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolEntities.dll
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\EntityFramework.dll
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolDAL.pdb
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolDAL.dll.config
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolEntities.pdb
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\EntityFramework.xml
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\obj\Debug\SchoolBLL.csproj.AssemblyReference.cache
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\obj\Debug\SchoolBLL.csproj.CoreCompileInputs.cache
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\obj\Debug\SchoolBLL.csproj.CopyComplete
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\obj\Debug\SchoolBLL.dll
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\obj\Debug\SchoolBLL.pdb
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\SchoolBLL.dll.config
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KAARSTTHENN\source\repos\Lab11-2\SchoolBLL\bin\Debug\EntityFramework.SqlServer.xml
